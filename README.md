@@ -14,7 +14,11 @@ Step 1
 <br>
 Step 2 
 <img src="https://cdn.discordapp.com/attachments/917438299365314601/932591563022934016/20220117_140214.jpg"></img>
-
+<br>
+</div>
+<div>
+Step 3
+<img src="https://cdn.discordapp.com/attachments/917438299365314601/932591563278802954/20220117_140238.jpg></img>
 </div>
 </body>
 </html>
