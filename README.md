@@ -18,7 +18,15 @@ Step 2
 </div>
 <div>
 Step 3
-<img src="https://cdn.discordapp.com/attachments/917438299365314601/932591563278802954/20220117_140238.jpg></img>
-</div>
+<img src="https://cdn.discordapp.com/attachments/917438299365314601/932591563278802954/20220117_140238.jpg"></img>
+
+ </div>
+ 
+ <div>
+  <h1>
+ #PC
+    <img src="https://cdn.discordapp.com/attachments/917438299365314601/932591563698221096/20220117_140436.jpg"></img>
+    </h1>
+  </div>
 </body>
 </html>
